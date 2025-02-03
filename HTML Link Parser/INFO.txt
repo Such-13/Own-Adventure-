@@ -1,0 +1,3 @@
+The golang.org/x/net/html package is a library in Go (Golang) that provides an HTML parser and tokenizer. It allows you to work with and manipulate HTML document
+
+
