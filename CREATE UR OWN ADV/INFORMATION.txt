@@ -1,0 +1,4 @@
+main.go will contain the main application logic.
+story.go will handle parsing and storing the JSON story data.
+templates.go will handle rendering the HTML pages using html/template.
+The templates/ folder will store our HTML template files.
